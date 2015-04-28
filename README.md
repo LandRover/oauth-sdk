@@ -1,3 +1,3 @@
-# oauth-sdk
+# sumo-oauth-sdk
 
 init 
