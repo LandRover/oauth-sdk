@@ -1,0 +1,19 @@
+{
+  "name": "sumo-oauth-node",
+  "version": "1.0.0",
+  "description": "Sumo oAuth node.js sdk",
+  "author": {
+    "name": "Sumo",
+    "email": "git@sumo"
+  },
+  "dependencies": {
+    "underscore": "1.8.x",
+    "async": "0.9.x"
+  },
+  "devDependencies": {
+    "mocha": "2.2.x",
+    "should": "6.0.x",
+    "nock": "1.7.x"
+  },
+  "_fromGithub": true
+}
